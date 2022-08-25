@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/xfw5brl3b19gvvy3?svg=true)](https://ci.appveyor.com/project/Viktorinaaa/api-ci)
+[![Build status](https://ci.appveyor.com/api/projects/status/s7rbyyhwr8kqaj8b?svg=true)](https://ci.appveyor.com/project/Viktorinaaa/api-ci-flwur)
